@@ -8,7 +8,7 @@ Bios version FB05
 
 This Patch is for Bios version FB05
 
-This tool will generate a bios backup, a modify backup and will flash it on your pc. 
+This tool will generate a bios backup, a patched modified backup and will flash it on your pc. 
 
 1.> Execute Dump.bat by double click on it (Bios Backup)
 
