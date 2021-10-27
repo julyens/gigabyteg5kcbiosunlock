@@ -19,5 +19,4 @@ This tool will generate a bios backup, a patched modified backup and will flash 
 
 ---
 
-These files were found online.
 Use it at your own risk!
